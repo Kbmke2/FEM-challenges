@@ -94,5 +94,6 @@ h6 {
 
 .challenge-name {
   text-align: center;
-  font-size: 0.7rem;
+  font-size: 1.4rem;
+  text-decoration: none;
 }
