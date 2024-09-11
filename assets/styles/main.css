@@ -79,11 +79,17 @@ h6 {
 :root {
   font-size: 14px;
 }
-#qr-code {
+.thumbnail {
   width: 12em;
   border: 2px solid black;
   margin: 1rem auto;
   border-radius: 1rem;
+}
+
+.challenge {
+  border: 2px dotted palegreen;
+  width: 24rem;
+  /* display: flex; */
 }
 
 .challenge-name {
